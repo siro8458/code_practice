@@ -5,7 +5,7 @@
 Kim et al.(2022) 의 방법을 따라, Business description에서 자주 언급되는 단어를 기반으로 전략적 자원이 비슷한 기업들로 동료 기업 (peer group)을 형성하였고, <br> 
 Kang(2021) 의 방법을 따라, peer group의 재무 데이터를 바탕으로 target firm 의 가치를 평가를 해 보고자 하였다. <br>
 P/S ratio 를 추정하기 위해 기업 특성(성장성, 매출성)의 코사인 유사도를 통하여 가중치를 계산하여, peer group에 가중치를 대입하여 목표 기업의 P/S ratio를 계산하였으며, <br>
-<img src="![식1](https://github.com/siro8458/code_practice/assets/156631928/c8831ab0-3980-4971-a2db-f789736e132c)"> <br>
+<img src="https://github.com/siro8458/code_practice/assets/156631928/c8831ab0-3980-4971-a2db-f789736e132c"> <br>
 
 CFFA 알고리즘과 유사하게 peer group의 P/S ratio를 넣어서 머신러닝 회귀를 통하여 예측을 해 보고자 하였으나, 기존의 알려진 기업 특성들은 사용하지 않았다. <br>
 ![식2](https://github.com/siro8458/code_practice/assets/156631928/875d65e0-7740-4317-91a9-307ac2ed2c77) <br>
